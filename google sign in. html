@@ -1,0 +1,184 @@
+<html>
+/* image 2 */
+
+
+position: absolute;
+width: 740px;
+height: 841px;
+left: 363px;
+top: 65px;
+
+background: url(image.png);
+
+
+/* image 3 */
+
+
+position: absolute;
+width: 740px;
+height: 841px;
+left: 363px;
+top: 65px;
+
+background: url(image.png);
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* authentication.alfafocus.tech/gmail */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 3px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+
+/* authentication.alfafocus.tech/gmail */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 3px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 574px;
+height: 62px;
+left: 435px;
+top: 384px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 574px;
+height: 62px;
+left: 435px;
+top: 384px;
+
+background: #FFFFFF;
+
+
+/* Singh.Alfafocus@gmail.com */
+
+
+position: absolute;
+width: 572px;
+height: 40px;
+left: 437px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Singh.Alfafocus@gmail.com */
+
+
+position: absolute;
+width: 572px;
+height: 40px;
+left: 437px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 126px;
+height: 64px;
+left: 905px;
+top: 702px;
+
+background: rgba(217, 217, 217, 0.08);
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 126px;
+height: 64px;
+left: 905px;
+top: 702px;
+
+background: rgba(217, 217, 217, 0.08);
+
+
+/* MacBook Pro 14" - 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #24CA99;
+</html>
