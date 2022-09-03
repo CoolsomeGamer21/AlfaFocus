@@ -1,0 +1,199 @@
+<html>
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 920px;
+left: 0px;
+top: 62px;
+
+background: url(image.png);
+
+
+/* Alfafocus.tech/signup */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+
+/* Welcome to AlfaFocus */
+
+
+position: absolute;
+width: 958px;
+height: 134px;
+left: 326px;
+top: 50px;
+
+font-family: 'Island Moments';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 147px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 455px;
+height: 54px;
+left: 290px;
+top: 212px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 455px;
+height: 54px;
+left: 290px;
+top: 318px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 455px;
+height: 54px;
+left: 311px;
+top: 434px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* USERNAME */
+
+
+position: absolute;
+width: 290px;
+height: 61px;
+left: 0px;
+top: 205px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* PASSWORD */
+
+
+position: absolute;
+width: 290px;
+height: 61px;
+left: 0px;
+top: 311px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* PROFESSION */
+
+
+position: absolute;
+width: 311px;
+height: 61px;
+left: 0px;
+top: 430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 234px;
+height: 54px;
+left: 19px;
+top: 530px;
+
+background: #FF0C0C;
+
+
+/* SIGN UP */
+
+
+position: absolute;
+width: 220px;
+height: 76px;
+left: 33px;
+top: 530px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 768px;
+height: 296px;
+left: 326px;
+top: 606px;
+
+background: url(image.png);
+border-radius: 9px;
+</html>
