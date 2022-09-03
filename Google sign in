@@ -1,3 +1,4 @@
+<html>
 Let OUR_CLIENT_ID = ''
 
 <script src="https://apis.google.com/js/platform.js" async defer></script>
@@ -21,3 +22,4 @@ function onSignIn(googleUser) {
     });
   }
 </script>
+</html>
